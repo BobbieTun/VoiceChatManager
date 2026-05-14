@@ -3,7 +3,7 @@ from discord.ext import commands
 import os
 import asyncio
 from database import init_db
-from keep_alive import keep_alive
+from keepalive import keep_alive
 
 class VoiceSystemBot(commands.Bot):
     def __init__(self):
