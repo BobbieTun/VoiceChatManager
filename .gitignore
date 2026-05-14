@@ -1,0 +1,11 @@
+# Môi trường và Bảo mật
+.env
+
+# Cơ sở dữ liệu cục bộ
+*.db
+*.sqlite3
+
+# Bộ đệm Python
+__pycache__/
+*.py[cod]
+*$py.class
